@@ -3,11 +3,12 @@ layout: post
 title: "buttom up coding"
 date: 2012-11-26 12:55
 comments: true
-categories: 
-- lab
-- MATLAB
 sharing: true
 footer: true
+categories: 
+- Lab
+- MATLAB
+
 
 ---
 # 自顶向下，逐步求精
@@ -19,4 +20,4 @@ footer: true
 这是《黑客与画家》[^1]中提到的一种bottom-up coding 的方法。虽然我不可能写出自己的语言来，但是用MATLAB搭建一个实验用的函数与过程库还是可行的。与之前的方法最大的区别是，由于思考方向的转变，会留下比较丰富的接口。而非那种只为一次调用而存在的够用就行的接口。如果一个函数的接口能适应三种情况，那么之后出现新的第四种第五种情况时压力也不会太大。
 
 
-[^1]:http://book.douban.com/subject/6021440/ "黑客与画家"
+[^1]: ["黑客与画家"](http://book.douban.com/subject/6021440/)

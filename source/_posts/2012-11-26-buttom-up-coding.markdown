@@ -3,11 +3,12 @@ layout: post
 title: "buttom up coding"
 date: 2012-11-26 12:55
 comments: true
-categories: 
-- lab
-- MATLAB
 sharing: true
 footer: true
+categories: 
+- Lab
+- MATLAB
+
 
 ---
 # 自顶向下，逐步求精
